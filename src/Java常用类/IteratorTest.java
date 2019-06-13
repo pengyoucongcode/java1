@@ -13,6 +13,7 @@ package Java常用类;
 //email:2923616405@qq.com
 
 import java.util.*;
+
 public class IteratorTest {
     public static void main(String[] args) {
         Collection<String> list = new ArrayList<>();
@@ -20,8 +21,8 @@ public class IteratorTest {
         list.add("B");
         list.add("C");
         Iterator<String> it = list.iterator();
-        while(it.hasNext()){
-            String str = (String)it.next();
+        while (it.hasNext()) {
+            String str = (String) it.next();
             System.out.println(str);
         }
     }
