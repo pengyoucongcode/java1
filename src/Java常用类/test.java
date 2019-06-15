@@ -6,8 +6,22 @@ package Java常用类;//Java常用类
 //IDEA_JAVA
 //email:2923616405@qq.com
 public class test {
+    private Object b;  //定义Object类型成员变量
+
+    public Object getB() {
+        return b;
+    }
+
+    public void setB(Object b) {
+        this.b = b;
+    }
+
     public static void main(String[] args) {
-        System.out.println("圆周率 π的值为："+Math.PI);
-        System.out.println("自然对数底数 e 的值为："+Math.E);
+        test t = new test();
+        t.setB(new Boolean(true));  //向上转型操作
+        System.out.println(t.getB());
+        t.setB(new Float(12.3));
+        Float f = (Float) (t.getB());  //向下转型操作
+        System.out.println(f);
     }
 }

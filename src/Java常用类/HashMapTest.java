@@ -24,12 +24,23 @@ public class HashMapTest {
 
         Set<String> set = map.keySet();  //构建键集合
         Collection<String> coll = map.values(); //构建值集合
-        Iterator<String> it1,it2;  //创建键值迭代器
+        Iterator<String> it1, it2;  //创建键值迭代器
         it1 = set.iterator();
         it2 = coll.iterator();
         System.out.println("key值\tvalue值");
-        while(it1.hasNext()&&it2.hasNext()){
-            System.out.println(it1.next()+"\t"+it2.next());  //遍历对象
+        while (it1.hasNext() && it2.hasNext()) {
+            System.out.println(it1.next() + "\t" + it2.next());  //遍历对像
+        }
+
+
+        System.out.println("===================================\n\tTreeMap traver:");
+        TreeMap<String, String> treemap = new TreeMap<>();  // 创建TreeMap 对象
+        treemap.putAll(map);  // 向集合添加元素
+        Iterator<String> iter = treemap.keySet().iterator();
+        while (iter.hasNext()) {
+            String str = (String) iter.next();
+            String name = (String) treemap.get(str);
+            System.out.println(str + ":" + name);
         }
     }
 }
