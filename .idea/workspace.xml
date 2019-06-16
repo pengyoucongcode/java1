@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java常用类/ListClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java常用类/LimitClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java常用类/WildClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +24,38 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TEST1@御承扬" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TEST1@御承扬" type="feb32156:DbDataSourceImpl" />
+        <item name="TEST1: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TEST1@御承扬" type="feb32156:DbDataSourceImpl" />
+        <item name="TEST1: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TEST1@御承扬" type="feb32156:DbDataSourceImpl" />
+        <item name="TEST1: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="TEST1@御承扬" type="feb32156:DbDataSourceImpl" />
+        <item name="TEST1: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Agent: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
@@ -37,24 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java常用类/HashMapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java常用类/ContantsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Java常用类/ShowEnum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -171,14 +179,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Java常用类/ListClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
+            <state relative-caret-position="552">
               <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#392#401#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java常用类/LimitClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java常用类/WildClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -233,6 +259,8 @@
         <option value="$PROJECT_DIR$/src/Java常用类/ArrayClass.java" />
         <option value="$PROJECT_DIR$/src/Java常用类/MutiOverClass.java" />
         <option value="$PROJECT_DIR$/src/Java常用类/ListClass.java" />
+        <option value="$PROJECT_DIR$/src/Java常用类/LimitClass.java" />
+        <option value="$PROJECT_DIR$/src/Java常用类/WildClass.java" />
       </list>
     </option>
   </component>
@@ -286,6 +314,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -313,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.ListClass">
+  <component name="RunManager" selected="应用程序.WildClass">
     <configuration name="ArrayClass" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java常用类.ArrayClass" />
       <module name="IDEA_JAVA" />
@@ -366,8 +395,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java常用类.test" />
+    <configuration name="WildClass" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java常用类.WildClass" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -381,11 +410,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.WildClass" />
         <item itemvalue="应用程序.ListClass" />
         <item itemvalue="应用程序.MutiOverClass" />
         <item itemvalue="应用程序.ArrayClass" />
         <item itemvalue="应用程序.OverClass" />
-        <item itemvalue="应用程序.test" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +449,7 @@
       <workItem from="1560430323265" duration="4400000" />
       <workItem from="1560496256857" duration="4472000" />
       <workItem from="1560565450094" duration="12129000" />
-      <workItem from="1560649975605" duration="2325000" />
+      <workItem from="1560649975605" duration="3838000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1559390940185</created>
@@ -492,11 +521,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560607363349</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update">
+      <created>1560654191123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560654191123</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52565000" />
+    <option name="totallyTimeSpent" value="54078000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -508,7 +544,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.22334683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -518,6 +555,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="设计师" order="7" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32872927" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.39088398" />
@@ -526,7 +564,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32872927" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" auto_hide="true" id="Version Control" order="8" visible="true" weight="0.32872927" />
+      <window_info anchor="bottom" auto_hide="true" id="Version Control" order="8" weight="0.32872927" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32872927" />
       <window_info anchor="bottom" auto_hide="true" id="Terminal" order="10" weight="0.32872927" />
       <window_info anchor="bottom" auto_hide="true" id="Event Log" order="11" side_tool="true" weight="0.32872927" />
@@ -820,11 +858,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java常用类/ListClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="552">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#392#401#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://61573f20-04f7-444f-a156-5db30f23e61f/database/TEST1/schema/dbo/table/Agent">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="241fc1b1-c456-488c-b93a-4597b970907a">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java常用类/LimitClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java常用类/WildClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
         </state>
       </provider>
     </entry>
