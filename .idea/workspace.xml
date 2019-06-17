@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java常用类/LimitClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Swing程序设计/JFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swing程序设计/BorderLayoutPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swing程序设计/FlowLayoutPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/AnyFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/AnyFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateFormatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ExponentFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ExponentFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashSetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IntFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IntFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IteratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IteratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/MathRandomChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/MathRandomChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/NumGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/NumGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/OlympicWinterGames.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/OlympicWinterGames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/RedBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/RedBag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/TrigonmetricFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/TrigonmetricFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,21 +82,77 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Java常用类/WildClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="228">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JFrameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/MyFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="44" column="51" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
+                <element signature="e#1567#1568#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/AbsolutePosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1192#1193#0" expanded="true" />
+                <element signature="e#1230#1231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/FlowLayoutPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="33" column="67" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JFrameTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/BorderLayoutPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="568">
+              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#1169#1170#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,6 +211,10 @@
         <option value="$PROJECT_DIR$/src/Java常用类/LimitClass.java" />
         <option value="$PROJECT_DIR$/src/Java常用类/WildClass.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/JFrameTest.java" />
+        <option value="$PROJECT_DIR$/src/Swing程序设计/MyFrame.java" />
+        <option value="$PROJECT_DIR$/src/Swing程序设计/AbsolutePosition.java" />
+        <option value="$PROJECT_DIR$/src/Swing程序设计/FlowLayoutPosition.java" />
+        <option value="$PROJECT_DIR$/src/Swing程序设计/BorderLayoutPosition.java" />
       </list>
     </option>
   </component>
@@ -182,8 +258,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,11 +273,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -220,13 +296,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JFrameTest">
-    <configuration name="ArrayClass" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java常用类.ArrayClass" />
+  <component name="RunManager" selected="应用程序.BorderLayoutPosition">
+    <configuration name="AbsolutePosition" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing程序设计.AbsolutePosition" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java常用类.*" />
+          <option name="PATTERN" value="Swing程序设计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BorderLayoutPosition" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing程序设计.BorderLayoutPosition" />
+      <module name="IDEA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Swing程序设计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowLayoutPosition" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing程序设计.FlowLayoutPosition" />
+      <module name="IDEA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Swing程序设计.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,38 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListClass" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java常用类.ListClass" />
+    <configuration name="MyFrame" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing程序设计.MyFrame" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java常用类.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MutiOverClass" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java常用类.MutiOverClass" />
-      <module name="IDEA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java常用类.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WildClass" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java常用类.WildClass" />
-      <module name="IDEA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java常用类.*" />
+          <option name="PATTERN" value="Swing程序设计.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.BorderLayoutPosition" />
+        <item itemvalue="应用程序.FlowLayoutPosition" />
+        <item itemvalue="应用程序.AbsolutePosition" />
+        <item itemvalue="应用程序.MyFrame" />
         <item itemvalue="应用程序.JFrameTest" />
-        <item itemvalue="应用程序.WildClass" />
-        <item itemvalue="应用程序.ListClass" />
-        <item itemvalue="应用程序.MutiOverClass" />
-        <item itemvalue="应用程序.ArrayClass" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +403,9 @@
       <workItem from="1560430323265" duration="4400000" />
       <workItem from="1560496256857" duration="4472000" />
       <workItem from="1560565450094" duration="12129000" />
-      <workItem from="1560649975605" duration="6744000" />
+      <workItem from="1560649975605" duration="11975000" />
+      <workItem from="1560742112571" duration="3880000" />
+      <workItem from="1560780763771" duration="1152000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1559390940185</created>
@@ -413,11 +491,32 @@
       <option name="project" value="LOCAL" />
       <updated>1560656988092</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update">
+      <created>1560687273091</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560687273091</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update">
+      <created>1560693855310</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560693855310</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update">
+      <created>1560745322867</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560745322867</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56984000" />
+    <option name="totallyTimeSpent" value="67247000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -432,7 +531,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.22334683" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.22297297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,23 +539,23 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="设计师" order="7" />
-      <window_info anchor="bottom" id="Database Console" weight="0.32872927" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.39088398" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.39027777" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32872927" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" auto_hide="true" id="Version Control" order="8" weight="0.32872927" />
+      <window_info anchor="bottom" auto_hide="true" id="Version Control" order="8" weight="0.32777777" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32872927" />
       <window_info anchor="bottom" auto_hide="true" id="Terminal" order="10" weight="0.32872927" />
       <window_info anchor="bottom" auto_hide="true" id="Event Log" order="11" side_tool="true" weight="0.32872927" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32872927" />
+      <window_info anchor="bottom" auto_hide="true" id="Messages" order="12" weight="0.32777777" />
       <window_info anchor="bottom" id="消息" order="13" />
       <window_info anchor="bottom" auto_hide="true" id="运行" order="14" weight="0.32872927" />
       <window_info anchor="bottom" id="调试" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32872927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -769,19 +868,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java常用类/WildClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JFrameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="456">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/AbsolutePosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/FlowLayoutPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="33" column="67" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/BorderLayoutPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -836,7 +983,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8.0_181</last-edited>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
