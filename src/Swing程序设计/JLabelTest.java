@@ -16,7 +16,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class JLabelTest extends JFrame {
-    JLabelTest() {
+    private JLabelTest() {
         Container c = getContentPane();
         JPanel p1 = new JPanel(new BorderLayout());
         JLabel labelContacts = new JLabel("联系人");  //创建标签并设置内容
@@ -32,6 +32,7 @@ public class JLabelTest extends JFrame {
     }
 
     public static void main(String[] args) {
+
         new JLabelTest();
     }
 }
