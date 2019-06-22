@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swing程序设计/JTextAreaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IDEA_JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IDEA_JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/AnyFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/AnyFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateFormatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/DateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ExponentFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ExponentFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/HashSetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IntFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IntFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IteratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/IteratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/MathRandomChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/MathRandomChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/NumGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/NumGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/OlympicWinterGames.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/OlympicWinterGames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/RedBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/RedBag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/TrigonmetricFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/TrigonmetricFunction.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java常用类/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java常用类/test.java" afterDir="false" />
     </list>
@@ -141,13 +156,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
               <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JTextAreaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -229,6 +258,7 @@
         <option value="$PROJECT_DIR$/src/Swing程序设计/DrawIcon.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java" />
+        <option value="$PROJECT_DIR$/src/Swing程序设计/JTextAreaTest.java" />
       </list>
     </option>
   </component>
@@ -256,6 +286,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -279,7 +310,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JTextFieldTest">
+  <component name="RunManager" selected="应用程序.JTextAreaTest">
     <configuration name="DrawIcon" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Swing程序设计.DrawIcon" />
       <module name="IDEA_JAVA" />
@@ -330,8 +360,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JLabelTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swing程序设计.JLabelTest" />
+    <configuration name="JTextAreaTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing程序设计.JTextAreaTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -384,11 +414,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.JTextAreaTest" />
         <item itemvalue="应用程序.JTextFieldTest" />
         <item itemvalue="应用程序.MyImageIcon" />
         <item itemvalue="应用程序.DrawIcon" />
         <item itemvalue="应用程序.Try" />
-        <item itemvalue="应用程序.JLabelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +465,7 @@
       <workItem from="1561168366773" duration="801000" />
       <workItem from="1561169206915" duration="7252000" />
       <workItem from="1561203056597" duration="4332000" />
-      <workItem from="1561211752258" duration="599000" />
+      <workItem from="1561211752258" duration="1958000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1559390940185</created>
@@ -591,11 +621,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561177261843</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Update">
+      <created>1561212808183</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1561212808184</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91854000" />
+    <option name="totallyTimeSpent" value="93213000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -608,7 +645,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.19731544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -620,8 +656,8 @@
       <window_info id="设计师" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" auto_hide="true" id="Run" order="2" visible="true" weight="0.3861111" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.3861111" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32825485" />
@@ -630,7 +666,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32872927" />
       <window_info anchor="bottom" auto_hide="true" id="Terminal" order="10" weight="0.32825485" />
       <window_info anchor="bottom" auto_hide="true" id="Event Log" order="11" side_tool="true" weight="0.32777777" />
-      <window_info anchor="bottom" auto_hide="true" id="Messages" order="12" weight="0.32618025" />
+      <window_info anchor="bottom" auto_hide="true" id="Messages" order="12" weight="0.3236111" />
       <window_info anchor="bottom" id="消息" order="13" />
       <window_info anchor="bottom" auto_hide="true" id="运行" order="14" weight="0.32872927" />
       <window_info anchor="bottom" id="调试" order="15" />
@@ -1095,6 +1131,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JTextAreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1145,7 +1193,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>12</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
