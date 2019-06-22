@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IDEA_JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IDEA_JAVA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/Java常用类/test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java常用类/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java常用类/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing程序设计/JLabelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swing程序设计/JLabelTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Swing程序设计/BorderLayoutPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="950">
               <caret line="39" column="67" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Swing程序设计/GridLayoutPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="800">
               <caret line="33" column="67" selection-start-line="31" selection-start-column="8" selection-end-line="33" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -95,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JPanelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="650">
               <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JLabelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="825">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -119,30 +118,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Swing程序设计/DrawIcon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="225">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
                 <element signature="e#731#732#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java">
+        <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+            <state relative-caret-position="159">
+              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -223,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/测试代码专用/Try.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/DrawIcon.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java" />
+        <option value="$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java" />
       </list>
     </option>
   </component>
@@ -250,6 +256,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,7 +280,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.MyImageIcon">
+  <component name="RunManager" selected="应用程序.JTextFieldTest">
     <configuration name="DrawIcon" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Swing程序设计.DrawIcon" />
       <module name="IDEA_JAVA" />
@@ -337,8 +343,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JScrollPaneTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swing程序设计.JScrollPaneTest" />
+    <configuration name="JTextFieldTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing程序设计.JTextFieldTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -378,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.JTextFieldTest" />
         <item itemvalue="应用程序.MyImageIcon" />
         <item itemvalue="应用程序.DrawIcon" />
         <item itemvalue="应用程序.Try" />
         <item itemvalue="应用程序.JLabelTest" />
-        <item itemvalue="应用程序.JScrollPaneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +433,9 @@
       <workItem from="1561103738516" duration="5650000" />
       <workItem from="1561168076845" duration="191000" />
       <workItem from="1561168366773" duration="801000" />
-      <workItem from="1561169206915" duration="6944000" />
+      <workItem from="1561169206915" duration="7252000" />
+      <workItem from="1561203056597" duration="4332000" />
+      <workItem from="1561211752258" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1559390940185</created>
@@ -576,11 +584,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561174185783</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Update">
+      <created>1561177261843</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1561177261843</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86615000" />
+    <option name="totallyTimeSpent" value="91854000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -595,7 +610,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.19758065" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.19731544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -603,10 +618,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="设计师" order="7" />
-      <window_info anchor="bottom" auto_hide="true" id="FindBugs-IDEA" weight="0.32775453" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" auto_hide="true" id="Run" order="2" visible="true" weight="0.38633195" />
+      <window_info active="true" anchor="bottom" auto_hide="true" id="Run" order="2" visible="true" weight="0.3861111" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -620,12 +634,13 @@
       <window_info anchor="bottom" id="消息" order="13" />
       <window_info anchor="bottom" auto_hide="true" id="运行" order="14" weight="0.32872927" />
       <window_info anchor="bottom" id="调试" order="15" />
-      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32872927" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32777777" />
+      <window_info anchor="bottom" auto_hide="true" id="FindBugs-IDEA" order="17" weight="0.3263889" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" auto_hide="true" id="Database" order="4" weight="0.14642376" />
+      <window_info anchor="right" auto_hide="true" id="Database" order="4" weight="0.14630872" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" auto_hide="true" id="Maven" order="6" weight="0.32972974" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -902,7 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://61573f20-04f7-444f-a156-5db30f23e61f/database/TEST1/schema/dbo/table/Agent" />
     <entry file="file://$PROJECT_DIR$/src/Java常用类/LimitClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -990,9 +1004,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/测试代码专用/Try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/bitmap3.bmp" />
+    <entry file="das://61573f20-04f7-444f-a156-5db30f23e61f/database/TEST1/schema/dbo/table/Agent">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="0d4dcc5f-5270-4152-93b0-393535841246">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/BorderLayoutPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="950">
           <caret line="39" column="67" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1002,7 +1033,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/GridLayoutPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="800">
           <caret line="33" column="67" selection-start-line="31" selection-start-column="8" selection-end-line="33" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1014,7 +1045,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JPanelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="650">
           <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1022,16 +1053,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/测试代码专用/Try.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JLabelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="825">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1041,31 +1065,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/DrawIcon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="225">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
             <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/bitmap3.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        <state relative-caret-position="625">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
