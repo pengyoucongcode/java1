@@ -18,9 +18,9 @@ public class test {
 
     public static void main(String[] args) {
         test t = new test();
-        t.setB(new Boolean(true));  //向上转型操作
+        t.setB(Boolean.TRUE);  //向上转型操作
         System.out.println(t.getB());
-        t.setB(new Float(12.3));
+        t.setB(12.3f);
         Float f = (Float) (t.getB());  //向下转型操作
         System.out.println(f);
     }
