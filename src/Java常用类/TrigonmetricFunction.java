@@ -22,6 +22,6 @@ public class TrigonmetricFunction {
         //取120°的弧度值
         System.out.println("取120°的弧度值:"+Math.toRadians(120.0));
         //π/2的角度
-        System.out.println("π/2的角度值："+Math.toDegrees(Math.PI/2));
+        System.out.println("π/2的角度值：" + Math.toDegrees(Math.PI / 2));
     }
 }
