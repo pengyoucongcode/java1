@@ -13,7 +13,7 @@ package 反射;
 //email:2923616405@qq.com
 
 
-import org.jetbrains.annotations.Contract;
+
 
 public class GetConstructorTest {
     String s; // 定义一个字符串变量
@@ -22,7 +22,7 @@ public class GetConstructorTest {
     /**
      * 默认构造方法
      */
-    @Contract(pure = true)
+
     private GetConstructorTest() {  // 无参构造函数
 
     }
