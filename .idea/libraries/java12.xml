@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="java12">
+    <CLASSES>
+      <root url="file://D:/Program Files/Java/jdk-12.0.1/lib" />
+      <root url="file://D:/Program Files/Java/jdk-12.0.1/docs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/Program Files/Java/jdk-12.0.1/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Program Files/Java/jdk-12.0.1/lib" recursive="false" />
+    <jarDirectory url="file://D:/Program Files/Java/jdk-12.0.1/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
