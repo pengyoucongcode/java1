@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/多线程/SynchronizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多线程/ThreadSafeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多线程/ThreadSafeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/多线程/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多线程/SynchronizedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/笔记/多线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/多线程.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/笔记/多线程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="515">
-                <caret line="567" selection-start-line="567" selection-end-line="567" />
+              <first_editor relative-caret-position="579">
+                <caret line="610" column="4" lean-forward="true" selection-start-line="610" selection-start-column="4" selection-end-line="610" selection-end-column="4" />
                 <folding>
                   <element signature="e#1766#1767#0" expanded="true" />
                   <element signature="e#1806#1807#0" expanded="true" />
@@ -66,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/多线程/SynchronizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="479">
+              <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -238,7 +237,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -416,14 +415,7 @@
       <workItem from="1563364743765" duration="95000" />
       <workItem from="1563364867577" duration="289000" />
       <workItem from="1563365858290" duration="1971000" />
-      <workItem from="1563411760601" duration="4888000" />
-    </task>
-    <task id="LOCAL-00008" summary="Update">
-      <created>1560351066854</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1560351066854</updated>
+      <workItem from="1563411760601" duration="6594000" />
     </task>
     <task id="LOCAL-00009" summary="Update">
       <created>1560438213187</created>
@@ -761,11 +753,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563415917065</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Update">
+      <created>1563416702813</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1563416702813</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212365000" />
+    <option name="totallyTimeSpent" value="214071000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -801,7 +800,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32777777" />
       <window_info anchor="bottom" auto_hide="true" id="Terminal" order="11" weight="0.32825485" />
-      <window_info anchor="bottom" auto_hide="true" id="Event Log" order="12" side_tool="true" weight="0.3260188" />
+      <window_info anchor="bottom" auto_hide="true" id="Event Log" order="12" side_tool="true" weight="0.32567567" />
       <window_info anchor="bottom" auto_hide="true" id="Messages" order="13" weight="0.32222223" />
       <window_info anchor="bottom" id="消息" order="14" />
       <window_info anchor="bottom" auto_hide="true" id="运行" order="15" weight="0.32872927" />
@@ -1309,8 +1308,8 @@
     <entry file="file://$PROJECT_DIR$/笔记/多线程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="515">
-            <caret line="567" selection-start-line="567" selection-end-line="567" />
+          <first_editor relative-caret-position="579">
+            <caret line="610" column="4" lean-forward="true" selection-start-line="610" selection-start-column="4" selection-end-line="610" selection-end-column="4" />
             <folding>
               <element signature="e#1766#1767#0" expanded="true" />
               <element signature="e#1806#1807#0" expanded="true" />
@@ -1332,8 +1331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/多线程/SynchronizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        <state relative-caret-position="479">
+          <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
         </state>
       </provider>
     </entry>

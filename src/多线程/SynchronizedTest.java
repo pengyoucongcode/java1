@@ -15,9 +15,24 @@ package 多线程;
 
 public class SynchronizedTest implements Runnable {
     private int num = 10;
-
-    public void run() {
-        while (true) {
+    private synchronized void doit() {
+        if (num > 0) {
+            try {
+                Thread.sleep( 100 );
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            System.out.printf( "%s票数%d\n", Thread.currentThread().getName(), num );
+            num--;
+        }
+        else
+            System.exit( 0 );
+    }
+    public final void run() {
+        while(true) {
+            doit();
+        }
+        /*while (true) {
             synchronized (this) {
                 if (num > 0) {
                     try {
@@ -31,7 +46,7 @@ public class SynchronizedTest implements Runnable {
                 else
                     break;
             }
-        }
+        }*/
     }
 
     public static void main(String[] args) {
