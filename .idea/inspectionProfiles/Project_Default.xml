@@ -190,6 +190,7 @@
           <option value="多线程.InterruptedSwing" />
           <option value="多线程.JoinTest" />
           <option value="多线程.SwingAndThread" />
+          <option value="多线程.ThreadSuspendFrame" />
         </set>
       </option>
     </inspection_tool>
