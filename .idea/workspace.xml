@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多线程/InterruptedSwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多线程/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多线程/PriorityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多线程/SynchronizedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/多线程/ThreadSafeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多线程/ThreadSafeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/笔记/多线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/多线程.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,12 +37,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/笔记/多线程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="490">
-                <caret line="460" column="7" lean-forward="true" selection-start-line="460" selection-start-column="7" selection-end-line="460" selection-end-column="7" />
+              <first_editor relative-caret-position="515">
+                <caret line="567" selection-start-line="567" selection-end-line="567" />
                 <folding>
                   <element signature="e#1766#1767#0" expanded="true" />
                   <element signature="e#1806#1807#0" expanded="true" />
@@ -66,24 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/多线程/Priority.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/多线程/SynchronizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="15" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/多线程/PriorityTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -128,8 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Swing程序设计/JLabelTest.java" />
-        <option value="$PROJECT_DIR$/src/测试代码专用/Try.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/DrawIcon.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java" />
@@ -178,6 +160,8 @@
         <option value="$PROJECT_DIR$/src/多线程/InterruptedSwing.java" />
         <option value="$PROJECT_DIR$/src/多线程/Priority.java" />
         <option value="$PROJECT_DIR$/src/多线程/PriorityTest.java" />
+        <option value="$PROJECT_DIR$/src/多线程/ThreadSafeTest.java" />
+        <option value="$PROJECT_DIR$/src/多线程/SynchronizedTest.java" />
         <option value="$PROJECT_DIR$/笔记/多线程.md" />
       </list>
     </option>
@@ -206,7 +190,32 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IDEA_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA_JAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -229,7 +238,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -253,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.PriorityTest">
+  <component name="RunManager" selected="应用程序.SynchronizedTest">
     <configuration name="InterruptedSwing" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="多线程.InterruptedSwing" />
       <module name="IDEA_JAVA" />
@@ -293,8 +302,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SleepMethodTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多线程.SleepMethodTest" />
+    <configuration name="SynchronizedTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多线程.SynchronizedTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -306,8 +315,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwingAndThread" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多线程.SwingAndThread" />
+    <configuration name="ThreadSafeTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多线程.ThreadSafeTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -321,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SynchronizedTest" />
+        <item itemvalue="应用程序.ThreadSafeTest" />
         <item itemvalue="应用程序.PriorityTest" />
         <item itemvalue="应用程序.InterruptedSwing" />
         <item itemvalue="应用程序.JoinTest" />
-        <item itemvalue="应用程序.SleepMethodTest" />
-        <item itemvalue="应用程序.SwingAndThread" />
       </list>
     </recent_temporary>
   </component>
@@ -406,21 +415,8 @@
       <workItem from="1563351572097" duration="4795000" />
       <workItem from="1563364743765" duration="95000" />
       <workItem from="1563364867577" duration="289000" />
-      <workItem from="1563365858290" duration="1930000" />
-    </task>
-    <task id="LOCAL-00006" summary="Update">
-      <created>1560003182152</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1560003182152</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Update">
-      <created>1560263227095</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1560263227095</updated>
+      <workItem from="1563365858290" duration="1971000" />
+      <workItem from="1563411760601" duration="4888000" />
     </task>
     <task id="LOCAL-00008" summary="Update">
       <created>1560351066854</created>
@@ -751,11 +747,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563354040673</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Update">
+      <created>1563367806675</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1563367806677</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Update">
+      <created>1563415917057</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1563415917065</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207436000" />
+    <option name="totallyTimeSpent" value="212365000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -778,6 +788,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
       <window_info id="设计师" order="7" />
+      <window_info anchor="bottom" auto_hide="true" id="Duplicates" weight="0.32972974" />
       <window_info anchor="bottom" auto_hide="true" id="Run" order="0" weight="0.3716216" />
       <window_info anchor="bottom" auto_hide="true" id="Version Control" order="1" weight="0.3189189" />
       <window_info anchor="bottom" auto_hide="true" id="Inspection Results" order="2" weight="0.32916668" />
@@ -863,20 +874,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/按钮1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JTextAreaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/JButtonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
@@ -1290,27 +1287,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/多线程/Priority.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="15" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="675">
+          <caret line="29" column="1" selection-start-line="15" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/多线程/PriorityTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+          <caret line="24" column="1" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/多线程/ThreadSafeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/笔记/多线程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="490">
-            <caret line="460" column="7" lean-forward="true" selection-start-line="460" selection-start-column="7" selection-end-line="460" selection-end-column="7" />
+          <first_editor relative-caret-position="515">
+            <caret line="567" selection-start-line="567" selection-end-line="567" />
             <folding>
               <element signature="e#1766#1767#0" expanded="true" />
               <element signature="e#1806#1807#0" expanded="true" />
@@ -1327,6 +1327,13 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/多线程/SynchronizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -1407,6 +1414,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>java12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

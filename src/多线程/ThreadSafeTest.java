@@ -32,14 +32,14 @@ public class ThreadSafeTest implements Runnable {
 
     public static void main(String[] args) {
         ThreadSafeTest t = new ThreadSafeTest();
-        Thread tA = new Thread( t,"线程一" );
-        Thread tB = new Thread( t,"线程二" );
-        Thread tC = new Thread( t,"线程三" );
-        Thread tD = new Thread( t,"线程四" );
+        Thread t1 = new Thread( t,"线程一" );
+        Thread t2 = new Thread( t,"线程二" );
+        Thread t3 = new Thread( t,"线程三" );
+        Thread t4 = new Thread( t,"线程四" );
         // 启动线程
-        tA.start();
-        tB.start();
-        tC.start();
-        tD.start();
+        t1.start();
+        t2.start();
+        t3.start();
+        t4.start();
     }
 }
