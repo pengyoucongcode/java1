@@ -24,12 +24,17 @@ public class IpToName {
 
     public static void main(String[] args) throws IOException {
         String IP;
+        String IP1 = "192.168.15.129";
         InetAddress host; // 创建 InetAddress 对象
+        InetAddress host1;
         try {
+            host1 = InetAddress.getByName( IP1 );
             host = InetAddress.getLocalHost(); // 实例化 InetAddress 对象，获取本机的 IP 地址相关信息
             String localName = host.getHostName(); // 获取本机名
             String localIp = host.getHostAddress();
+            String name = host1.getHostName(); // 获取虚拟机名
             System.out.println( "本机名:" + localName + ",本机 IP 地址：" + localIp );
+            System.out.println( "虚拟机 IP："+IP1+"的名称为："+name );
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }

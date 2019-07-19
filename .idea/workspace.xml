@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/多线程/ThreadSuspendFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network_communication/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network_communication/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/多线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/多线程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Network_communication/IpToName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Network_communication/IpToName.java" afterDir="false" />
     </list>
+    <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,44 +36,26 @@
     <favorites_list name="IDEA_JAVA" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/笔记/多线程.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="490">
-                <caret line="694" column="7" lean-forward="true" selection-start-line="694" selection-start-column="7" selection-end-line="694" selection-end-column="7" />
-                <folding>
-                  <element signature="e#1766#1767#0" expanded="true" />
-                  <element signature="e#1806#1807#0" expanded="true" />
-                  <element signature="e#1706#1707#0" expanded="true" />
-                  <element signature="e#1761#1762#0" expanded="true" />
-                  <element signature="e#2042#2043#0" expanded="true" />
-                  <element signature="e#2076#2077#0" expanded="true" />
-                  <element signature="e#309#310#0" expanded="true" />
-                  <element signature="e#383#384#0" expanded="true" />
-                  <element signature="e#1176#1177#0" expanded="true" />
-                  <element signature="e#1214#1215#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Network_communication/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="821">
+              <caret line="57" column="1" lean-forward="true" selection-start-line="14" selection-end-line="57" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/多线程/ThreadSuspendFrame.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Network_communication/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="98" column="1" lean-forward="true" selection-start-line="15" selection-end-line="98" selection-end-column="1" />
+            <state relative-caret-position="146">
+              <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#2888#2889#0" expanded="true" />
-                <element signature="e#2927#2928#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,9 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Swing程序设计/MyImageIcon.java" />
-        <option value="$PROJECT_DIR$/src/Swing程序设计/JTextFieldTest.java" />
-        <option value="$PROJECT_DIR$/src/Swing程序设计/JTextAreaTest.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/JButtonTest.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/RadioButtonTest.java" />
         <option value="$PROJECT_DIR$/src/Swing程序设计/CheckBoxTest.java" />
@@ -169,6 +149,9 @@
         <option value="$PROJECT_DIR$/src/多线程/SynchronizedTest.java" />
         <option value="$PROJECT_DIR$/src/多线程/ThreadSuspendFrame.java" />
         <option value="$PROJECT_DIR$/笔记/多线程.md" />
+        <option value="$PROJECT_DIR$/src/Network_communication/IpToName.java" />
+        <option value="$PROJECT_DIR$/src/Network_communication/Server.java" />
+        <option value="$PROJECT_DIR$/src/Network_communication/Client.java" />
       </list>
     </option>
   </component>
@@ -186,10 +169,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="225" />
-    <option name="y" value="75" />
-    <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -197,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,13 +197,12 @@
               <item name="IDEA_JAVA" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDEA_JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="Network_communication" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -268,13 +251,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.ThreadSuspendFrame">
-    <configuration name="InterruptedSwing" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多线程.InterruptedSwing" />
+  <component name="RunManager" selected="应用程序.Client">
+    <configuration name="Client" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Network_communication.Client" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多线程.*" />
+          <option name="PATTERN" value="Network_communication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +265,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多线程.PriorityTest" />
+    <configuration name="IpToName" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Network_communication.IpToName" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多线程.*" />
+          <option name="PATTERN" value="Network_communication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Network_communication.Server" />
+      <module name="IDEA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Network_communication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,19 +293,6 @@
     </configuration>
     <configuration name="SynchronizedTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="多线程.SynchronizedTest" />
-      <module name="IDEA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="多线程.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadSafeTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多线程.ThreadSafeTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -336,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Client" />
+        <item itemvalue="应用程序.Server" />
+        <item itemvalue="应用程序.IpToName" />
         <item itemvalue="应用程序.ThreadSuspendFrame" />
         <item itemvalue="应用程序.SynchronizedTest" />
-        <item itemvalue="应用程序.ThreadSafeTest" />
-        <item itemvalue="应用程序.PriorityTest" />
-        <item itemvalue="应用程序.InterruptedSwing" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +333,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="" />
+      <changelist id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="" />
       <created>1559390284869</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -422,28 +406,11 @@
       <workItem from="1563364743765" duration="95000" />
       <workItem from="1563364867577" duration="289000" />
       <workItem from="1563365858290" duration="1971000" />
-      <workItem from="1563411760601" duration="8402000" />
-    </task>
-    <task id="LOCAL-00010" summary="Update">
-      <created>1560607363349</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1560607363349</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Update">
-      <created>1560654191123</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1560654191123</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Update">
-      <created>1560656988092</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1560656988092</updated>
+      <workItem from="1563411760601" duration="9905000" />
+      <workItem from="1563424360383" duration="685000" />
+      <workItem from="1563437972254" duration="2962000" />
+      <workItem from="1563443936864" duration="1621000" />
+      <workItem from="1563506080453" duration="4368000" />
     </task>
     <task id="LOCAL-00013" summary="Update">
       <created>1560687273091</created>
@@ -767,11 +734,32 @@
       <option name="project" value="LOCAL" />
       <updated>1563418446605</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Update">
+      <created>1563420267025</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1563420267025</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Update">
+      <created>1563420546087</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1563420546087</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Update">
+      <created>1563439731041</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1563439731042</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215879000" />
+    <option name="totallyTimeSpent" value="227018000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -783,10 +771,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.17986578" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.17963752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966443" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -794,9 +782,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
       <window_info id="设计师" order="7" />
-      <window_info anchor="bottom" auto_hide="true" id="Duplicates" weight="0.32972974" />
-      <window_info anchor="bottom" auto_hide="true" id="Run" order="0" weight="0.3716216" />
-      <window_info anchor="bottom" auto_hide="true" id="Version Control" order="1" weight="0.3189189" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="0" weight="0.37095088" />
+      <window_info anchor="bottom" auto_hide="true" id="Version Control" order="1" weight="0.31870428" />
       <window_info anchor="bottom" auto_hide="true" id="Inspection Results" order="2" weight="0.32916668" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" auto_hide="true" id="Find" order="4" weight="0.32916668" />
@@ -814,6 +801,7 @@
       <window_info anchor="bottom" id="调试" order="16" />
       <window_info anchor="bottom" id="Database Console" order="17" weight="0.32777777" />
       <window_info anchor="bottom" auto_hide="true" id="FindBugs-IDEA" order="18" weight="0.3263889" />
+      <window_info anchor="bottom" auto_hide="true" id="Duplicates" order="19" weight="0.32972974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" auto_hide="true" id="Ant Build" order="1" weight="0.24946696" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -880,42 +868,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/RadioButtonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/CheckBoxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Swing程序设计/FocusEventTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1290#1291#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Swing程序设计/SimpleEvent2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -1309,20 +1261,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/多线程/ThreadSuspendFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="98" column="1" lean-forward="true" selection-start-line="15" selection-end-line="98" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#2888#2889#0" expanded="true" />
-            <element signature="e#2927#2928#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/笔记/多线程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1344,6 +1282,46 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/多线程/ThreadSuspendFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network_communication/IpToName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network_communication/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="14" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network_communication/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
