@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JTabbedPaneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JInternalFrameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/高级Swing组件/JSplitPaneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/高级Swing组件/JSplitPaneTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/高级Swing组件/JSplitPaneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/高级Swing组件/JSplitPaneTest.java" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,13 +128,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JTabbedPaneTest">
-    <configuration name="ChatRoomServer" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chating.ChatRoomServer" />
+  <component name="RunManager" selected="应用程序.JInternalFrameTest">
+    <configuration name="JInternalFrameTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JInternalFrameTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chating.*" />
+          <option name="PATTERN" value="高级Swing组件.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientFrame" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chating.ClientFrame" />
+    <configuration name="JInternalFrameTest1" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JInternalFrameTest1" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chating.*" />
+          <option name="PATTERN" value="高级Swing组件.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.JInternalFrameTest" />
+        <item itemvalue="应用程序.JInternalFrameTest1" />
         <item itemvalue="应用程序.JTabbedPaneTest" />
         <item itemvalue="应用程序.JSplitPaneTest" />
         <item itemvalue="应用程序.LinkServerFrame" />
-        <item itemvalue="应用程序.ClientFrame" />
-        <item itemvalue="应用程序.ChatRoomServer" />
       </list>
     </recent_temporary>
   </component>
@@ -302,14 +300,8 @@
       <workItem from="1564305246624" duration="1570000" />
       <workItem from="1564388982650" duration="80000" />
       <workItem from="1564389100723" duration="329000" />
-      <workItem from="1564389477910" duration="5189000" />
-    </task>
-    <task id="LOCAL-00018" summary="Update">
-      <created>1561105194487</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1561105194487</updated>
+      <workItem from="1564389477910" duration="6470000" />
+      <workItem from="1564401553734" duration="4775000" />
     </task>
     <task id="LOCAL-00019" summary="Update">
       <created>1561108503664</created>
@@ -647,7 +639,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564304255941</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Update">
+      <created>1564395580114</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1564395580114</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
