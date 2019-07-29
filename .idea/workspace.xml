@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JSplitPaneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JTabbedPaneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_JAVA/高级Swing组件/JSplitPaneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_JAVA/高级Swing组件/JSplitPaneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/高级Swing组件/JSplitPaneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/高级Swing组件/JSplitPaneTest.java" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,7 +102,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -128,20 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JSplitPaneTest">
-    <configuration name="AbsolutePosition" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swing程序设计.AbsolutePosition" />
-      <module name="IDEA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Swing程序设计.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.JTabbedPaneTest">
     <configuration name="ChatRoomServer" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chating.ChatRoomServer" />
       <module name="IDEA_JAVA" />
@@ -181,6 +170,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JTabbedPaneTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JTabbedPaneTest" />
+      <module name="IDEA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="高级Swing组件.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkServerFrame" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chating.LinkServerFrame" />
       <module name="IDEA_JAVA" />
@@ -196,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.JTabbedPaneTest" />
         <item itemvalue="应用程序.JSplitPaneTest" />
         <item itemvalue="应用程序.LinkServerFrame" />
         <item itemvalue="应用程序.ClientFrame" />
         <item itemvalue="应用程序.ChatRoomServer" />
-        <item itemvalue="应用程序.AbsolutePosition" />
       </list>
     </recent_temporary>
   </component>
@@ -296,21 +298,11 @@
       <workItem from="1564191917955" duration="4492000" />
       <workItem from="1564212242488" duration="11381000" />
       <workItem from="1564277249449" duration="4889000" />
-      <workItem from="1564298033758" duration="5268000" />
-    </task>
-    <task id="LOCAL-00016" summary="Update">
-      <created>1560782052681</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1560782052681</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Update">
-      <created>1560839297742</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1560839297742</updated>
+      <workItem from="1564298033758" duration="5860000" />
+      <workItem from="1564305246624" duration="1570000" />
+      <workItem from="1564388982650" duration="80000" />
+      <workItem from="1564389100723" duration="329000" />
+      <workItem from="1564389477910" duration="5189000" />
     </task>
     <task id="LOCAL-00018" summary="Update">
       <created>1561105194487</created>
@@ -641,7 +633,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564224271252</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Update">
+      <created>1564304204174</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1564304204174</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Update">
+      <created>1564304255941</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1564304255941</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -691,103 +697,5 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>java12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>IDEA_JAVA</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>java12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

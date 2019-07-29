@@ -29,8 +29,8 @@ public class JSplitPaneTest extends JFrame{
         vSplitPane.setDividerSize(8); // 分隔条宽度为 8 像素
         vSplitPane.setOneTouchExpandable( true ); // 提供 UI 小部件
         vSplitPane.setContinuousLayout( true ); // 设置分隔条移动时连续重绘，分隔条会跟随鼠标指针移动
-        vSplitPane.setLeftComponent( new JLabel( "    2" ) );
-        vSplitPane.setRightComponent( new JLabel( "   3" ) );
+        vSplitPane.setTopComponent( new JLabel( "    2" ) );
+        vSplitPane.setBottomComponent( new JLabel( "   3" ) );
         hSplitPane.setRightComponent( vSplitPane ); // 将垂直分割面板添加到水平分割面板的右侧
     }
 
