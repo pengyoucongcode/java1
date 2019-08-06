@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JInternalFrameTest.java" afterDir="false" />
+    <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JMenuTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
@@ -104,7 +104,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -128,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JInternalFrameTest">
+  <component name="RunManager" selected="应用程序.JMenuTest">
     <configuration name="JInternalFrameTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="高级Swing组件.JInternalFrameTest" />
       <module name="IDEA_JAVA" />
@@ -144,6 +144,19 @@
     </configuration>
     <configuration name="JInternalFrameTest1" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="高级Swing组件.JInternalFrameTest1" />
+      <module name="IDEA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="高级Swing组件.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JMenuTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JMenuTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -181,26 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkServerFrame" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chating.LinkServerFrame" />
-      <module name="IDEA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chating.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.JMenuTest" />
         <item itemvalue="应用程序.JInternalFrameTest" />
         <item itemvalue="应用程序.JInternalFrameTest1" />
         <item itemvalue="应用程序.JTabbedPaneTest" />
         <item itemvalue="应用程序.JSplitPaneTest" />
-        <item itemvalue="应用程序.LinkServerFrame" />
       </list>
     </recent_temporary>
   </component>
@@ -301,14 +301,10 @@
       <workItem from="1564388982650" duration="80000" />
       <workItem from="1564389100723" duration="329000" />
       <workItem from="1564389477910" duration="6470000" />
-      <workItem from="1564401553734" duration="4775000" />
-    </task>
-    <task id="LOCAL-00019" summary="Update">
-      <created>1561108503664</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1561108503664</updated>
+      <workItem from="1564401553734" duration="4966000" />
+      <workItem from="1564833716152" duration="900000" />
+      <workItem from="1564837056797" duration="759000" />
+      <workItem from="1565075431750" duration="1028000" />
     </task>
     <task id="LOCAL-00020" summary="Update">
       <created>1561108559437</created>
@@ -646,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564395580114</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Update">
+      <created>1564406403803</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1564406403804</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
