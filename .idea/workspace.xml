@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/FileFilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JProgressBarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
@@ -129,20 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.FileFilterTest">
-    <configuration name="CustomMenuTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="高级Swing组件.CustomMenuTest" />
-      <module name="IDEA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="高级Swing组件.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.JProgressBarTest">
     <configuration name="FileFilterTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="高级Swing组件.FileFilterTest" />
       <module name="IDEA_JAVA" />
@@ -182,6 +169,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JProgressBarTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JProgressBarTest" />
+      <module name="IDEA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="高级Swing组件.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JToolBarTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="高级Swing组件.JToolBarTest" />
       <module name="IDEA_JAVA" />
@@ -197,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.JProgressBarTest" />
         <item itemvalue="应用程序.FileFilterTest" />
         <item itemvalue="应用程序.JFileChooserTest" />
         <item itemvalue="应用程序.JToolBarTest" />
         <item itemvalue="应用程序.JPopupMenuTest" />
-        <item itemvalue="应用程序.CustomMenuTest" />
       </list>
     </recent_temporary>
   </component>
@@ -311,14 +311,7 @@
       <workItem from="1565150573088" duration="3609000" />
       <workItem from="1565180378512" duration="46000" />
       <workItem from="1565180451307" duration="1274000" />
-      <workItem from="1565226009540" duration="2867000" />
-    </task>
-    <task id="LOCAL-00025" summary="Update">
-      <created>1561275621010</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1561275621010</updated>
+      <workItem from="1565226009540" duration="5167000" />
     </task>
     <task id="LOCAL-00026" summary="Update">
       <created>1561293357400</created>
@@ -656,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565181692482</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Update">
+      <created>1565231061198</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1565231061199</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
