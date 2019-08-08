@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JFileChooserTest.java" afterDir="false" />
+    <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/FileFilterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
@@ -129,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JFileChooserTest">
+  <component name="RunManager" selected="应用程序.FileFilterTest">
     <configuration name="CustomMenuTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="高级Swing组件.CustomMenuTest" />
       <module name="IDEA_JAVA" />
@@ -143,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JFileChooserTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JFileChooserTest" />
+    <configuration name="FileFilterTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.FileFilterTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JMenuTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JMenuTest" />
+    <configuration name="JFileChooserTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JFileChooserTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -197,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.FileFilterTest" />
         <item itemvalue="应用程序.JFileChooserTest" />
         <item itemvalue="应用程序.JToolBarTest" />
         <item itemvalue="应用程序.JPopupMenuTest" />
         <item itemvalue="应用程序.CustomMenuTest" />
-        <item itemvalue="应用程序.JMenuTest" />
       </list>
     </recent_temporary>
   </component>
@@ -310,14 +310,8 @@
       <workItem from="1565139443926" duration="2467000" />
       <workItem from="1565150573088" duration="3609000" />
       <workItem from="1565180378512" duration="46000" />
-      <workItem from="1565180451307" duration="1225000" />
-    </task>
-    <task id="LOCAL-00024" summary="Update">
-      <created>1561214317583</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1561214317583</updated>
+      <workItem from="1565180451307" duration="1274000" />
+      <workItem from="1565226009540" duration="2867000" />
     </task>
     <task id="LOCAL-00025" summary="Update">
       <created>1561275621010</created>
@@ -655,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565153575184</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Update">
+      <created>1565181692482</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1565181692482</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
