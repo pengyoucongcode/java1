@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/JTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高级Swing组件/TableModelTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
@@ -129,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JTableTest">
+  <component name="RunManager" selected="应用程序.TableModelTest">
     <configuration name="FileFilterTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="高级Swing组件.FileFilterTest" />
       <module name="IDEA_JAVA" />
@@ -182,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JToolBarTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JToolBarTest" />
+    <configuration name="TableModelTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.TableModelTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -197,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TableModelTest" />
         <item itemvalue="应用程序.JTableTest" />
         <item itemvalue="应用程序.JProgressBarTest" />
         <item itemvalue="应用程序.FileFilterTest" />
         <item itemvalue="应用程序.JFileChooserTest" />
-        <item itemvalue="应用程序.JToolBarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -313,14 +313,7 @@
       <workItem from="1565180451307" duration="1274000" />
       <workItem from="1565226009540" duration="5206000" />
       <workItem from="1565308932531" duration="46000" />
-      <workItem from="1565309017412" duration="2979000" />
-    </task>
-    <task id="LOCAL-00027" summary="Update">
-      <created>1561297454142</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1561297454142</updated>
+      <workItem from="1565309017412" duration="5703000" />
     </task>
     <task id="LOCAL-00028" summary="Update">
       <created>1561361449155</created>
@@ -658,7 +651,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565233358615</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Update">
+      <created>1565316542572</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1565316542572</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
