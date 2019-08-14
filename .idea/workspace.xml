@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AWT绘图/DrawTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWT绘图/ColorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
@@ -40,6 +40,7 @@
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
@@ -104,7 +105,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -129,9 +130,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.DrawTest">
-    <configuration name="DrawTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AWT绘图.DrawTest" />
+  <component name="RunManager" selected="应用程序.ColorTest">
+    <configuration name="ColorTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AWT绘图.ColorTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -143,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileFilterTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="高级Swing组件.FileFilterTest" />
+    <configuration name="DrawTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AWT绘图.DrawTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="高级Swing组件.*" />
+          <option name="PATTERN" value="AWT绘图.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ColorTest" />
         <item itemvalue="应用程序.DrawTest" />
         <item itemvalue="应用程序.TableModelTest" />
         <item itemvalue="应用程序.JTableTest" />
         <item itemvalue="应用程序.JProgressBarTest" />
-        <item itemvalue="应用程序.FileFilterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -315,21 +316,11 @@
       <workItem from="1565308932531" duration="46000" />
       <workItem from="1565309017412" duration="6007000" />
       <workItem from="1565484068237" duration="110000" />
-      <workItem from="1565484213011" duration="2636000" />
-    </task>
-    <task id="LOCAL-00030" summary="Update">
-      <created>1561365483720</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1561365483721</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Update">
-      <created>1561367943087</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1561367943087</updated>
+      <workItem from="1565484213011" duration="2675000" />
+      <workItem from="1565656362641" duration="1123000" />
+      <workItem from="1565686873839" duration="81000" />
+      <workItem from="1565769172876" duration="227000" />
+      <workItem from="1565769434684" duration="1702000" />
     </task>
     <task id="LOCAL-00032" summary="Update">
       <created>1561384305542</created>
@@ -660,7 +651,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565484375656</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Update">
+      <created>1565488257444</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1565488257444</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Update">
+      <created>1565686907429</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1565686907430</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
