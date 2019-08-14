@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e65795a-6659-4829-a5e6-120206826e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AWT绘图/ColorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWT绘图/StrokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AWT绘图/ColorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AWT绘图/ColorTest.java" afterDir="false" />
     </list>
     <list id="cbcb3066-613e-44bd-84c2-b0cf22cc5a78" name="New changelist" comment="New changelist" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.ColorTest">
+  <component name="RunManager" selected="应用程序.StrokeTest">
     <configuration name="ColorTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AWT绘图.ColorTest" />
       <module name="IDEA_JAVA" />
@@ -157,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JProgressBarTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JProgressBarTest" />
+    <configuration name="JTableTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JTableTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -170,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JTableTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="高级Swing组件.JTableTest" />
+    <configuration name="StrokeTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AWT绘图.StrokeTest" />
       <module name="IDEA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="高级Swing组件.*" />
+          <option name="PATTERN" value="AWT绘图.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.StrokeTest" />
         <item itemvalue="应用程序.ColorTest" />
         <item itemvalue="应用程序.DrawTest" />
         <item itemvalue="应用程序.TableModelTest" />
         <item itemvalue="应用程序.JTableTest" />
-        <item itemvalue="应用程序.JProgressBarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -320,14 +320,7 @@
       <workItem from="1565656362641" duration="1123000" />
       <workItem from="1565686873839" duration="81000" />
       <workItem from="1565769172876" duration="227000" />
-      <workItem from="1565769434684" duration="1702000" />
-    </task>
-    <task id="LOCAL-00032" summary="Update">
-      <created>1561384305542</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1561384305542</updated>
+      <workItem from="1565769434684" duration="2339000" />
     </task>
     <task id="LOCAL-00033" summary="Update">
       <created>1561385104652</created>
@@ -665,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565686907430</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Update">
+      <created>1565771939010</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1565771939011</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
